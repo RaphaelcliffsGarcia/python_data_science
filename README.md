@@ -34,6 +34,8 @@ Aqui estão os cursos mais avançados, focados em visualização e interpretaç�
 - **e_streamlit_dashboard**: Dashboards interativos (Front/Back) e integração com APIs usando Streamlit.
 - **f_powerbi_finance**: Uso de Python dentro do Power BI para criação de dashboards financeiros.
 - **g_analise_SQL**: Análise e manipulação de dados com SQL.
+- **h_Geopandas**: Introdução ao uso do Geopandas para análise e visualização de dados geoespaciais.
+- **i_dados_geograficos**: Aplicações práticas de dados geográficos e manipulação de shapefiles.
 
 ## 🧠 Bibliotecas Utilizadas
 
@@ -47,6 +49,7 @@ Durante os cursos, aprendi a utilizar as principais bibliotecas do ecossistema P
 - **Streamlit**: Para criação de dashboards e aplicações web interativas de análise de dados.
 - **Requests**: Para realizar requisições HTTP e integração com APIs externas.
 - **SQLAlchemy**: Conexão, consulta e manipulação de bancos de dados relacionais.
+- **Geopandas**: análise e visualização espacial, integração com shapefiles e mapas interativos.
 
 ## 🎯 Objetivo
 
