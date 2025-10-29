@@ -1,7 +1,7 @@
 # 📊 Curso Alura: Formação Python para Data Science
 
 Neste espaço, compilei todos os cursos que completei na **Formação Python para Data Science** da Alura.  
-A formação é composta por 8 cursos, totalizando **69 horas** de conteúdo prático e teórico.
+A formação é composta por 8 cursos, totalizando **86 horas** de conteúdo prático e teórico.
 
 ## 🗂 Estrutura do Projeto
 
@@ -50,6 +50,7 @@ Durante os cursos, aprendi a utilizar as principais bibliotecas do ecossistema P
 - **Requests**: Para realizar requisições HTTP e integração com APIs externas.
 - **SQLAlchemy**: Conexão, consulta e manipulação de bancos de dados relacionais.
 - **Geopandas**: análise e visualização espacial, integração com shapefiles e mapas interativos.
+- **Folium**: permite visualizar dados geoespaciais de forma simples e bonita, integrando facilmente com pandas, GeoJSON, shapefiles e dados do OpenStreetMap.
 
 ## 🎯 Objetivo
 
