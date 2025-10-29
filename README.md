@@ -30,6 +30,10 @@ Aqui estão os cursos mais avançados, focados em visualização e interpretaç�
 - **a_graficos_Visualizacao_bibliotecas**: Introdução às principais bibliotecas de visualização;
 - **b_comparação_distribuição**: Comparação e análise de distribuições estatísticas;
 - **c_graficos_composicao_relacionamento**: Gráficos de relacionamento e composição de dados.
+- **d_estilizacao_tabelas_python**: Personalização e estilização de tabelas em Python.
+- **e_streamlit_dashboard**: Dashboards interativos (Front/Back) e integração com APIs usando Streamlit.
+- **f_powerbi_finance**: Uso de Python dentro do Power BI para criação de dashboards financeiros.
+- **g_analise_SQL**: Análise e manipulação de dados com SQL.
 
 ## 🧠 Bibliotecas Utilizadas
 
@@ -38,7 +42,11 @@ Durante os cursos, aprendi a utilizar as principais bibliotecas do ecossistema P
 - **Pandas**: Para manipulação e análise de dados;
 - **NumPy**: Para cálculos numéricos e operações com arrays;
 - **Matplotlib** e **Seaborn**: Para criação de gráficos e visualizações de dados;
+- **Plotly**: Para visualizações interativas e dinâmicas em gráficos avançados.
 - **Jupyter Notebook**: Para organizar e compartilhar o código com visualizações interativas.
+- **Streamlit**: Para criação de dashboards e aplicações web interativas de análise de dados.
+- **Requests**: Para realizar requisições HTTP e integração com APIs externas.
+- **SQLAlchemy**: Conexão, consulta e manipulação de bancos de dados relacionais.
 
 ## 🎯 Objetivo
 
